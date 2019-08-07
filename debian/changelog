@@ -1,0 +1,13 @@
+ros-kinetic-epos2-motor-controller (1.0.1-1xenial) xenial; urgency=high
+
+  * fix for LIBFTDI_USE_FILE location in xenial and missing libftdipp1
+
+ -- Sebastian Pütz <spuetz@uos.de>  Tue, 06 Aug 2019 22:00:00 -0000
+
+ros-kinetic-epos2-motor-controller (1.0.0-1xenial) xenial; urgency=high
+
+  * First release,c ontributors: Jochen Sprickerhof, galenya, mmorta
+
+ -- Sebastian Pütz <spuetz@uos.de>  Mon, 22 Apr 2019 22:00:00 -0000
+
+
